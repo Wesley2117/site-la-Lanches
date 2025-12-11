@@ -69,7 +69,7 @@ const menuItems = {
             id: 10,
             name: "Feijoada Rainha",
             description: "Acompanha Calabresa, feijão preto, arroz, coentro, eucalipto, farofa.",
-            price: 5.00,
+            price: 38.00,
             image: "./img/Almoco/feijioada.jpg"
         }
     ],
